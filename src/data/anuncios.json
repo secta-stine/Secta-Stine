@@ -1,0 +1,196 @@
+[
+  {
+    "nombre": "Evento Confesiones (Test)",
+    "mensaje": {
+      "content": "# Evento Confesiones\n\n Buenaaaaaaaassss, este sábado 21 de octubre tendremos un evento en el cual se van a leer confesiones anónimas en llamada en los siguientes horarios 4pm 🇲🇽, 5pm🇵🇪, 7pm 🇦🇷, 10pm 🇪🇸 \n( <t:1697925600:R> )\n\n Los invitamos participen enviando sus confesiones en el botón de abajo y se unan a la llamada ese día\n Los esperamos <:froggyheart:1099211153055432704>",
+      "tts": false,
+      "embeds": [],
+      "files": [
+        {
+          "attachment": "https://pbs.twimg.com/media/F8_rgY-bkAAHdDK?format=jpg&name=large",
+          "name": "Evento.png"
+        }
+      ],
+      "components": [
+        {
+          "id": 801366112,
+          "type": 1,
+          "components": [
+            {
+              "style": 5,
+              "label": "Envía tu confesión",
+              "url": "https://tellonym.me/sectastine",
+              "disabled": false,
+              "emoji": {
+                "id": null,
+                "name": "🤫"
+              },
+              "type": 2
+            }
+          ]
+        }
+      ],
+      "actions": {
+        "299055887": {
+          "actions": []
+        }
+      },
+      "username": "Secta Stine"
+    }
+  },
+  {
+    "nombre": "Arbolito de Navidad",
+    "mensaje": {
+      "content": "# Arbolito de navidad\n\n¡Buenas buenassss!!! Ho ho ho <:uwu:1108065059550281818>\n\nComo saben ya estamos en épocas navideñas, y para cerrar el año queríamos hacer un pequeño recuerdito entre todxs juntxs uwu\n\nComo verán en la imagen es una bola de navidad (nmms), básicamente cada uno podrá dibujar en ella lo que quiera! No se olviden de poner sus nombres <:angry:1106266731409834044>\n\nLuego se la enviarán a arroba etc   <:waos:1121012005072015361>\n\nPor último estas bolitas irán en un árbol navideño todas juntas, porque a pesar de la distancia estamos todxs conectadxs con el espíritu navideño <:pokemonlove:1100982274410958869>\n\nEsperamos su colaboración, hay tiempo hasta el día 22 de diciembre ✨ \n\n<a:estrellas:1178445423569031198> arroba etc <a:estrellas:1178445423569031198>\n",
+      "tts": false,
+      "embeds": [],
+      "files": [
+        {
+          "attachment": "https://cdn.discordapp.com/attachments/1173747158218985574/1182844545516445807/Picsart_23-11-13_19-26-59-819.png?ex=65862cd3&is=6573b7d3&hm=565bf59f506ab3363ce0bdc52a089aebadd925c104f6b308c4f633ca9a3721ef&",
+          "name": "Bola uwu.png"
+        }
+      ],
+      "components": [],
+      "actions": {},
+      "username": "Secta Stine"
+    }
+  },
+  {
+    "nombre": "Recordatorio arbolito de navidad",
+    "mensaje": {
+      "content": "Buenas! Recuerden poner sus nombres en la cinta verde de abajo al enviar sus hermosas bolitas navideñas! <:Contershy:1115041509683777547>\n\nAdemás, para mantener el espíritu festivo, les pedimos que eviten contenido para mayores de 18 <:AltoAhiFurro:1110233171724881950> \ndesde ya graciassss \n\n\n<a:estrellas:1178445423569031198> <@&1101722700327702548> <a:estrellas:1178445423569031198>\n",
+      "tts": false,
+      "embeds": [],
+      "files": [],
+      "components": [],
+      "actions": {},
+      "username": "Secta Stine"
+    }
+  },
+  {
+    "nombre": "Test waos completo",
+    "mensaje": {
+      "content": "Este es un test <:waos:1121012005072015361> \n<a:estrellas:1178445423569031198>  <@578054939771928601> <a:mion:1177354099017121943>  <a:estrellas:1178445423569031198> \n<:peldon:1181134744763773059> \nSaluditos",
+      "tts": false,
+      "embeds": [],
+      "files": [
+        {
+          "attachment": "https://i.ytimg.com/vi/yme3hC5Nkcc/sddefault.jpg?v=63daa221",
+          "name": "Anuncio.png"
+        }
+      ],
+      "components": [],
+      "actions": {},
+      "username": "Secta Stine"
+    }
+  },
+  {
+    "nombre": "Stine Awards",
+    "mensaje": {
+      "content": "# Stine Awards!\n\nHola buenas! \n\nComo bien saben ya estamos por terminar el año y que mejor que hacer un STINE AWARDS ✨\n\nUstedes podrán nominar y votar a lxs mejores en sus categorías, e incluso quién dice que no gana alguno de ustedes 👀\n\nHagan click en el botón de abajo para votar a su favorito <:Contershy:1115041509683777547>\nTienen tiempo hasta el 28 de diciembre. <:gawrgurahi:1100845196851298405>\n\n<a:estrellas:1178445423569031198> <@&1100532206612525217> <a:estrellas:1178445423569031198>\n",
+      "tts": false,
+      "embeds": [],
+      "files": [
+        {
+          "attachment": "https://cdn.discordapp.com/attachments/1077146336446660664/1187816006635233380/IMG_20231222_001336.jpg?ex=659842dc&is=6585cddc&hm=3894beea8dd5fc7bce14d4fba7aa2fd661105f6699adc8110a6085d73086a126&",
+          "name": "Stine Awards.png"
+        }
+      ],
+      "components": [
+        {
+          "id": 801366112,
+          "type": 1,
+          "components": [
+            {
+              "id": 621151752,
+              "type": 2,
+              "style": 5,
+              "label": "Votá acá",
+              "action_set_id": "194792422",
+              "emoji": {
+                "name": "✉️",
+                "animated": false
+              },
+              "url": "https://docs.google.com/forms/d/e/1FAIpQLSddsD16fH1Glw2cj5JDqlf9JCZktjjXxrQFteSGSOsj4S73NA/viewform?usp=sf_link"
+            }
+          ]
+        }
+      ],
+      "actions": {
+        "299055887": {
+          "actions": []
+        }
+      },
+      "username": "Secta Stine"
+    }
+  },
+  {
+    "nombre": "Video Patrocinador",
+    "mensaje": {
+      "content": "¡Buenas buenas!!!!\nMuchos anuncios pero bueno, espero que esten pasando una linda navidad y como cierre de este hermoso 25/12 les dejamos este videito por parte de nuestro patrocinador anónimo ✨\n\n<a:estrellas:1178445423569031198> <@&1100532206612525217> <a:estrellas:1178445423569031198>\n",
+      "tts": false,
+      "embeds": [],
+      "files": [
+        {
+          "attachment": "https://cdn.discordapp.com/attachments/1099158329286201446/1188933563681357834/video_patrocinador.mp4?ex=659c53aa&is=6589deaa&hm=6a7efe0b813f0994e0eb90c88654695fb4f607cd80830e3970b1fdd80106e7e5&",
+          "name": "Anuncio.mp4"
+        }
+      ],
+      "components": [],
+      "actions": {},
+      "username": "Secta Stine"
+    }
+  },
+  {
+    "nombre": "Stine Awards Recordatorio",
+    "mensaje": {
+      "content": "# Stine Awards\n\nHoliis buenas \n\nLes recordamos que hoy cierran las votaciones para los Stine Awards.\n\nHagan click en el botón de abajo para votar a su favorito <:Contershy:1115041509683777547>\nTienen tiempo hasta que finalice el escenario de esta noche que va a comenzar pronto ( <t:1703818800:R> ) <:gawrgurahi:1100845196851298405>\n\n<a:estrellas:1178445423569031198> <@&1100532206612525217> <a:estrellas:1178445423569031198>\n",
+      "tts": false,
+      "embeds": [],
+      "files": [
+        {
+          "attachment": "https://cdn.discordapp.com/attachments/1099158329286201446/1190092526166749195/Stine_Awards.png?ex=65a08b09&is=658e1609&hm=d52039190d84f95e5c78c857f86349e43c1ca7bf986852fb13ea50ff319619b0&",
+          "name": "Stine Awards.png"
+        }
+      ],
+      "components": [
+        {
+          "id": 801366112,
+          "type": 1,
+          "components": [
+            {
+              "id": 621151752,
+              "type": 2,
+              "style": 5,
+              "label": "Votá acá",
+              "action_set_id": "194792422",
+              "emoji": {
+                "name": "✉️",
+                "animated": false
+              },
+              "url": "https://docs.google.com/forms/d/e/1FAIpQLSddsD16fH1Glw2cj5JDqlf9JCZktjjXxrQFteSGSOsj4S73NA/viewform?usp=sf_link"
+            }
+          ]
+        }
+      ],
+      "actions": {
+        "299055887": {
+          "actions": []
+        }
+      },
+      "username": "Secta Stine"
+    }
+  },
+  {
+    "nombre": "contercafe",
+    "mensaje": {
+      "content": "<:conterCafe:1160035693704265762>",
+      "tts": false,
+      "embeds": [],
+      "files": [],
+      "components": [],
+      "actions": {},
+      "username": "Secta Stine"
+    }
+  }
+]
